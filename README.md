@@ -141,6 +141,6 @@ Email/SMS notification integration
 
 Ritesh Satre
 
-📧 Email: satreritesh9@gmail.com
+📧 Email: kunalgarve1@gmail.com
 
-🌐 GitHub: https://github.com/Riteshsatre
+🌐 GitHub: https://github.com/kunalgarve
